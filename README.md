@@ -11,17 +11,18 @@ Projects which i will focus on:
 
   • Risk metrics calculator
   
-  • Options profit calculator
+  • Futures Arbitrage
   
-  • Automated stock screener
+  • Route optimization
   
-  • Anything else that i may find useful regarding trading and sales with real-world applications
+
+My upcoming projects will explore practical applications within trading, commodities, logistics/shipping, and sales.
 
 Fun Facts:
   
   • 	I love cats (dogs are also cute!)
   
-  • 	I don’t like coffee
+  • 	I like tea
   
   •	 Clash Royale is my favorite game
   
@@ -30,14 +31,3 @@ Fun Facts:
 <!--
 **ermand26/ermand26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
