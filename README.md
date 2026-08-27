@@ -28,6 +28,4 @@ Fun Facts:
   
   •	 Hobbies: Chess, Calisthenics, Poker
 
-<!--
-**ermand26/ermand26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
